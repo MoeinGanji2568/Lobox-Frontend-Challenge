@@ -1,5 +1,11 @@
+import { DropDown } from "../components/ui/DropDown";
+
 function App() {
-  return <></>;
+  return (
+    <section>
+      <DropDown />
+    </section>
+  );
 }
 
 export default App;
